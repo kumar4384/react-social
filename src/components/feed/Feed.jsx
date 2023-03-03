@@ -14,7 +14,7 @@ function Feed() {
         <Post />
       </div>
     </div>
-  )
+  );
 }
 
 export default Feed
